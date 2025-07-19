@@ -36,27 +36,11 @@ Check out these featured repositories:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumya-mishra&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-mishra&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: 
 - 🔗 [LinkedIn]()
 - ✍️ [My Blog](https://eternaloop8.wordpress.com/) – Where I upload code and explanations
-
----
-
-## 💬 Quote I Like
-
-> *“Code every day, improve every week, build for the future.”*
 
 ---
 
