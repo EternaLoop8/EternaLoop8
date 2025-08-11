@@ -39,7 +39,7 @@ Check out these featured repositories:
 ## 📫 Connect With Me
 
 - 📧 Email: 
-- 🔗 [LinkedIn]()
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eternaloop/)
 - ✍️ [My Blog]() – Where I upload code and explanations
 
 ---
